@@ -26,8 +26,10 @@ int main()
 {
     std::cout << "Hello World!\n";
 
+	// Basics
 	std::cout << addition(4, 5)  << "\n";
 	std::cout << subtraction(4, 5) << "\n";
+
 
 	int a = 5;
 	int b = 8;
@@ -35,7 +37,8 @@ int main()
 	std::cout << a << "\n";
 	std::cout << b << "\n";
 
-	// pointers
+
+	// Pointers
 	int firstvalue = 5, secondvalue = 15;
 	int* p1, * p2;
 
@@ -50,4 +53,16 @@ int main()
 
 	std::cout << "firstvalue is " << firstvalue << '\n';
 	std::cout << "secondvalue is " << secondvalue << '\n';
+
+	int foo[] = { 16, 2, 77, 40, 12071 };
+	int n, result = 0;
+
+	// Arrays 
+	for (n = 0; n < 5; ++n)
+	{
+		result += foo[n];
+	}
+	std::cout << result;
+
+	// TODO extract to a method ? 
 }
