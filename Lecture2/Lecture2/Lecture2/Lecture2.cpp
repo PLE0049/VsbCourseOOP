@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include "KeyValue.h"
+#include "Television.h"
 
 int main()
 {
@@ -10,6 +11,7 @@ int main()
 	std::cout << "Lets create your first class!\n";
 
 	//TODO: Create one simple class - Television
+	Television* tv = new Television();
 
 
 	//TODO: Create one simple class - Employe
@@ -32,4 +34,7 @@ int main()
 
 	std::cout << kv1->GetKey() << std::endl;
 	std::cout << kv2->GetKey() << std::endl;
+
+
+	// TODO: Dictionary
 }
