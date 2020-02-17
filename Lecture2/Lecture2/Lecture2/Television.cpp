@@ -1,8 +1,25 @@
 #include "Television.h"
 
-void Television::SetChannel(int channel)
+Television::Television()
 {
-	this->channel = channel;
+	this->channel = 1;
+	this->volume = 30;
+	this->isOn = false;
+}
+
+void Television::TurnOn()
+{
+	this->isOn = true;
+}
+
+void Television::TurnOff()
+{
+	this->isOn = false;
+}
+
+void Television::SetChannel(int c)
+{
+	this->channel = c;
 }
 
 int Television::GetChannel()
@@ -10,9 +27,9 @@ int Television::GetChannel()
 	return this->channel;
 }
 
-void Television::SetVolume(int volume)
+void Television::SetVolume(int v)
 {
-	this->volume = volume;
+	this->volume = v;
 }
 
 int Television::GetVolume()

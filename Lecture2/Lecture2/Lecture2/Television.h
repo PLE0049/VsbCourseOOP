@@ -3,15 +3,19 @@ class Television
 {
 private :
 	bool isOn;
-	int channel;
 	int volume;
+	int channel;
 
-public : 
-	void SetChannel(int channel);
+public:
+	Television();
+	void TurnOn();
+	void TurnOff();
+	void SetChannel(int c);
 	int GetChannel();
-	void SetVolume(int volume);
-	// void IncreaseVolume();
-	// void DecreaseVolume();
+	void SetVolume(int v);
 	int GetVolume();
+
+	// void IncreaseVolume();
+    // void DecreaseVolume();
 };
 

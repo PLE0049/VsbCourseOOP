@@ -151,12 +151,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Calculator.cpp" />
     <ClCompile Include="KeyValue.cpp" />
     <ClCompile Include="Lecture2.cpp" />
+    <ClCompile Include="Person.cpp" />
     <ClCompile Include="Television.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Calculator.h" />
     <ClInclude Include="KeyValue.h" />
+    <ClInclude Include="Person.h" />
     <ClInclude Include="Television.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
