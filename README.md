@@ -8,7 +8,19 @@ Welcome, this project is dedicated to a course that I am teaching on VSB TU Ostr
 - Course overview
 
 ## Lecture 2 
-- C++ basics
-- OOP introduction
-- First OOP code snipet
+In this lecture, we will briefly look into C++ basics and OOP introduction.
+The main purpose of this lecture is to look at the first OOP code snippets.
 
+### Exercise
+* Calculator: a set of function and class with methods
+* Person: class with data
+* Television: class with data and methods
+* KeyValue: class with a pointer to another instance
+
+## Lecture 3 :WIP
+In this lecture, we will continue with very simple examples to practice some of the new introduced techniques and terms. For example we will explore options of getters, setters and constructors.
+
+### Excercises
+* Dictionary
+* Point: Class holding information about coordinates X and Y
+* Curve: Class that holds list of points and can add new points to array
