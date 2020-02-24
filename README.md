@@ -21,6 +21,8 @@ The main purpose of this lecture is to look at the first OOP code snippets.
 In this lecture, we will continue with very simple examples to practice some of the new introduced techniques and terms. For example we will explore options of getters, setters and constructors.
 
 ### Excercises
-* Dictionary
+* Dictionary: Array of KeyValues objects
+* User: Class with email and password
+* Auth: Class with login function
 * Point: Class holding information about coordinates X and Y
 * Curve: Class that holds list of points and can add new points to array
