@@ -17,12 +17,16 @@ The main purpose of this lecture is to look at the first OOP code snippets.
 * Television: class with data and methods
 * KeyValue: class with a pointer to another instance
 
-## Lecture 3 :WIP
+## Lecture 3
 In this lecture, we will continue with very simple examples to practice some of the new introduced techniques and terms. For example we will explore options of getters, setters and constructors.
 
 ### Excercises
 * Dictionary: Array of KeyValues objects
-* User: Class with email and password
-* Auth: Class with login function
 * Point: Class holding information about coordinates X and Y
 * Curve: Class that holds list of points and can add new points to array
+
+## Lecture 4: WIP
+
+### Excercises
+* User: Class with email and password
+* Auth: Class with login function
