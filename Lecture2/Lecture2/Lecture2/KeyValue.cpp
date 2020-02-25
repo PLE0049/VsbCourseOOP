@@ -1,5 +1,12 @@
 #include "KeyValue.h"
 
+KeyValue::KeyValue()
+{
+	this->key = 0;
+	this->value = 0;
+	this->next = nullptr;
+}
+
 KeyValue::KeyValue(int k, double v)
 {
 	this->key = k;

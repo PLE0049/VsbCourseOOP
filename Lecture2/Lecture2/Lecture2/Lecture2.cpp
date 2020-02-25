@@ -65,6 +65,7 @@ int main()
 	KeyValue* kv1 = new KeyValue(100, 1.5);
 	std::cout << kv1->CreateNext(2, 2.5)->GetKey() << std::endl;
 
+
 	KeyValue* kv2 = kv1->GetNext();
 	std::cout << kv2->GetKey() << std::endl;
 
@@ -76,14 +77,6 @@ int main()
 
 	// TODO: Dictionary
 	// Dictionary holds List of KeyValues
-	// Has methods as GetByKey and AddKeyValu
+	// Has methods as GetByKey and AddKeyValue
 	// All keys are unique
 }
-
-
-
-
-/*
-
-	
-*/

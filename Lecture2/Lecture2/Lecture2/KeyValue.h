@@ -7,6 +7,7 @@ private:
 	KeyValue* next;
 
 public: 
+	KeyValue();
 	KeyValue(int k, double v);
 	~KeyValue();
 	int GetKey();
