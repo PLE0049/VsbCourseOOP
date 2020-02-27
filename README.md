@@ -25,6 +25,14 @@ In this lecture, we will continue with very simple examples to practice some of 
 * Point: Class holding information about coordinates X and Y
 * Curve: Class that holds list of points and can add new points to array
 
+
+## Literature
+* Thinking in C++ from Bruce Eckela [en]
+* The Object-Oriented Thought Process by Matt Weisfeld Weisfeld [en]
+* Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin [en]
+* The C++ Programming Language, 4th Edition by Bjarne Stroustrup [en]
+* Mistrovství v C++ (Stephen Prata). [cz]
+
 ## Lecture 4: WIP
 
 ### Excercises
