@@ -25,13 +25,14 @@ In this lecture, we will continue with very simple examples to practice some of 
 * Point: Class holding information about coordinates X and Y
 * Curve: Class that holds list of points and can add new points to array
 
-## Lecture 4: WIP
+## Lecture 4:
+
+In this lecture we will implement two separate examples and try to practice some known principles. 
+So far lot of excercies was in code-along model, now we will try unassisted coding.
 
 ### Excercises
-* User: Class with email and password
-* Auth: Class with login function
-
-
+* Bank, account and client example
+* User, Auth: Class with email and password, class with login function
 
 ## Literature
 * Thinking in C++ from Bruce Eckela [en]
