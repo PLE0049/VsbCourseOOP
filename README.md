@@ -31,12 +31,18 @@ In this lecture we will implement two separate examples and try to practice some
 So far lot of excercies was in code-along model, now we will try unassisted coding.
 
 ### Excercises
-* Bank, account and client example
-* User, Auth: Class with email and password, class with login function
+* Bank, account and client - example from presentation
+* User, Auth: Class with email and password, class with login function - [detailed uml](UserAuth.png)
 
 ## Lecture 5
+In this lectuer we will implement snippet of information system of small school and ambulance. These snippets will be consisted out of 4 classes. There will be minimum of new syntax and principles and we will focus on practicing previously learned things.
 
 ### Excercise
+#### School
+Implement small IS for **School**. One StudentsGroup will contain list of students, teacher and list of grades. StudentGroup allows to assign students to group, assign teacher, set name, get list of students, get student by name, insert grades and compute final grade for one or all students.
+
+#### Ambulance
+Implement small is for an **Ambulance**. Ambulance manages **Doctors** and **Patients**. When patient comes to ambulance, personel tries to find his record. If there is none, patient is recorded. After that there created instance of **Diagnose**. The patient, doctor and date must be filled to the diagnose befor even examination begins. Diagnose should have status set as pending. After that, examination is provided and doctor fills a title, text and status of diagnose.
 
 ## Literature
 Go to [literature page](Literature.md) for complete list.
