@@ -34,9 +34,9 @@ So far lot of excercies was in code-along model, now we will try unassisted codi
 * Bank, account and client example
 * User, Auth: Class with email and password, class with login function
 
+## Lecture 5
+
+### Excercise
+
 ## Literature
-* Thinking in C++ from Bruce Eckela [en]
-* The Object-Oriented Thought Process by Matt Weisfeld Weisfeld [en]
-* Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin [en]
-* The C++ Programming Language, 4th Edition by Bjarne Stroustrup [en]
-* Mistrovství v C++ (Stephen Prata). [cz]
+Go to [literature page](Literature.md) for complete list.
