@@ -46,3 +46,9 @@ Implement small is for an **Ambulance**. Ambulance manages **Doctors** and **Pat
 
 ## Literature
 Go to [literature page](Literature.md) for complete list.
+
+## Disclaimer
+
+All codes that are writen in this repository are just snippets and I do not guarantee their correctness. Even though I tried to make them corrent there could be thinkgs that cannot be interpreted without context or simply there was not enough time to fix it.
+
+:warning: If you find anything that can be fixed or moddified, feel free to create PR with chages.
