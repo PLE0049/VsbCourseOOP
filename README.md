@@ -15,7 +15,7 @@ Go to [literature page](Literature.md) for complete list. Literature listed ther
 
 ## Disclaimer :warning:
 
-All codes that are written in this repository are just snippets and I do not guarantee their correctness. Even though I tried to make them correct there could be things that cannot be interpreted without context or simply there was not enough time to fix it.
+All codes that are written in this repository are just snippets and I do not guarantee their correctness. Even though I tried to make them correct there could be things that cannot be interpreted without context or simply there was not enough time to fix it :see_no_evil:.
 
 ## Contribution :dog:
 
