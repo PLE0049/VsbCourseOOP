@@ -3,9 +3,9 @@
 Welcome :wave:, this project is dedicated to a course that I am teaching on VSB TU Ostrava and will cover all code snippets that will be presented on each lecture.
 
 - [All lectures](Lectures.md)
-  - [Lecture 1 - basics, first class](Lectures.md#lecture-1)
-  - [Lecture 2 - pointers](Lectures.md#lecture-2)
-  - [Lecture 3 -Dictionaryn, Point & Curve ](Lectures.md#lecture-3)
+  - [Lecture 1 - Basics, first class](Lectures.md#lecture-1)
+  - [Lecture 2 - Pointers](Lectures.md#lecture-2)
+  - [Lecture 3 - Arrays, Dictionary, Point & Curve ](Lectures.md#lecture-3)
   - [Lecture 4 - Bank & Login](Lectures.md#lecture-4)
   - [Lecture 5 - School & Ambulance](Lectures.md#lecture-5)
 
