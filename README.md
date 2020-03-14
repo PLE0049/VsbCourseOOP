@@ -8,6 +8,7 @@ Welcome :wave:, this project is dedicated to a course that I am teaching on VSB 
   - [Lecture 3 - Arrays, Dictionary, Point & Curve ](Lectures.md#lecture-3)
   - [Lecture 4 - Bank & Login](Lectures.md#lecture-4)
   - [Lecture 5 - School & Ambulance](Lectures.md#lecture-5)
+  - [Lecture 6 - Static and inheritance](Lectures.md#lecture-6)
 
 
 ## Literature :book:
