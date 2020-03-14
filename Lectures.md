@@ -32,7 +32,7 @@ In this lecture, we will continue with very simple examples to practice some of 
 * Point: Class holding information about coordinates X and Y
 * Curve: Class that holds a list of points and can add new points to an array
 
-## Lecture 4:
+## Lecture 4
 
 In this lecture, we will implement two separate examples and try to practice some known principles. 
 So far a lot of exercises were in the code-along model, now we will try unassisted coding.
@@ -50,3 +50,9 @@ Implement small IS for **School**. One StudentsGroup will contain a list of stud
 
 #### Ambulance
 Implement small IS for an **Ambulance**. Ambulance manages **Doctors** and **Patients**. When a patient comes to the ambulance, the personnel tries to find his record. If there is none, the patient is recorded. After that, there created an instance of **Diagnose**. The patient, doctor, and date must be filled to the diagnosis before even examination begins. Diagnose should have the status set as pending. After that, the examination is provided and the doctor fills a title, text, and status of diagnosis.
+
+## Lecture 6
+This lecture will cover static fields and basic of inheritance. 
+
+### Excercise
+* Bank
