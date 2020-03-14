@@ -7,6 +7,7 @@
 - [Lecture 3](#lecture-3)
 - [Lecture 4](#lecture-4)
 - [Lecture 5](#lecture-5)
+- [Lecture 6](#lecture-6)
 
 
 ## Lecture 1
