@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{874C213E-DE48-4219-A80F-793DD16FD959}</ProjectGuid>
+    <ProjectGuid>{BF2E6B90-CF3E-48DA-AFFB-89DA062311B6}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>BankApplication</RootNamespace>
+    <RootNamespace>School</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -147,17 +147,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Account.cpp" />
-    <ClCompile Include="Bank.cpp" />
-    <ClCompile Include="BankApplication.cpp" />
-    <ClCompile Include="Client.cpp" />
-    <ClCompile Include="PartnerAccount.cpp" />
+    <ClCompile Include="Person.cpp" />
+    <ClCompile Include="School.cpp" />
+    <ClCompile Include="Student.cpp" />
+    <ClCompile Include="Teacher.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Account.h" />
-    <ClInclude Include="Bank.h" />
-    <ClInclude Include="Client.h" />
-    <ClInclude Include="PartnerAccount.h" />
+    <ClInclude Include="Person.h" />
+    <ClInclude Include="Student.h" />
+    <ClInclude Include="Teacher.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
