@@ -2,6 +2,8 @@
 
 Welcome :wave:, this project is dedicated to a course that I am teaching on VSB TU Ostrava and will cover all code snippets that will be presented on each lecture.
 
+## Content
+
 - [All lectures](Lectures.md)
   - [Lecture 1 - Basics, first class](Lectures.md#lecture-1)
   - [Lecture 2 - Pointers](Lectures.md#lecture-2)
@@ -9,7 +11,10 @@ Welcome :wave:, this project is dedicated to a course that I am teaching on VSB 
   - [Lecture 4 - Bank & Login](Lectures.md#lecture-4)
   - [Lecture 5 - School & Ambulance](Lectures.md#lecture-5)
   - [Lecture 6 - Static and inheritance](Lectures.md#lecture-6)
+  
+## Tasks
 
+1) [Inheritance](Task1.md)
 
 ## Literature :book:
 Go to [literature page](Literature.md) for complete list. Literature listed there is my personal selection and it does not reflect recomended literature from subject curriculum.
