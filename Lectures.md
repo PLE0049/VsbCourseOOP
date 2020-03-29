@@ -58,3 +58,9 @@ This lecture will cover static fields and basic of inheritance.
 ### Excercise
 * Bank
 * Math library example
+
+## Lecture 7 : WIP
+
+### Excercise
+
+
