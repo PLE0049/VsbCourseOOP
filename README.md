@@ -11,6 +11,7 @@ Welcome :wave:, this project is dedicated to a course that I am teaching on VSB 
   - [Lecture 4 - Bank & Login](Lectures.md#lecture-4)
   - [Lecture 5 - School & Ambulance](Lectures.md#lecture-5)
   - [Lecture 6 - Static and inheritance](Lectures.md#lecture-6)
+  - [Lecture 7 - Inheritance v2 ](Lectures.md#lecture-7)
   
 ## Tasks
 
