@@ -8,8 +8,4 @@ int main()
 {
     std::cout << "Hello World!\n";
 
-    A* object = new A("test");
-
-    cout << object->GetName() << endl;
-
 }
