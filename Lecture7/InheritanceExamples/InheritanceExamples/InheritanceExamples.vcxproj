@@ -147,7 +147,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="A.cpp" />
+    <ClCompile Include="B.cpp" />
+    <ClCompile Include="Character.cpp" />
     <ClCompile Include="InheritanceExamples.cpp" />
+    <ClCompile Include="Mage.cpp" />
+    <ClCompile Include="Rectangle.cpp" />
+    <ClCompile Include="Square.cpp" />
+    <ClCompile Include="Warior.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="A.h" />
+    <ClInclude Include="B.h" />
+    <ClInclude Include="Character.h" />
+    <ClInclude Include="Mage.h" />
+    <ClInclude Include="Rectangle.h" />
+    <ClInclude Include="Square.h" />
+    <ClInclude Include="Warior.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
