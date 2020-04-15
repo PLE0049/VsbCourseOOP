@@ -1,8 +1,8 @@
-## Task one [EN]
+## Task 3 [EN]
 
 :warning: Keep your implementation, it may be required later !!!
 
-## Druhý úkol [CZ]
+## Třetí úkol [CZ]
 
 Naimplementujte jednoduchou dědičnou hierarchii geometrických objektů. Hierarchie bude obsahovat bázovou třídu **Shape** která bude mít metodu pro výpočet obvodu a obsahu. Třída bude čistě abstraktní.
 
