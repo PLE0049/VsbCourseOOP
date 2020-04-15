@@ -1,6 +1,3 @@
-## Task 3 [EN]
-
-:warning: Keep your implementation, it may be required later !!!
 
 ## Třetí úkol [CZ]
 
