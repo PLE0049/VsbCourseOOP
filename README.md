@@ -17,6 +17,7 @@ Welcome :wave:, this project is dedicated to a course that I am teaching on VSB 
 
 1) [Inheritance - ambulance](Tasks/Task1.md)
 1) [Inheritance - UI](Tasks/Task2.md)
+1) [Inheritance - Shapes](Tasks/Task3.md)
 
 ## Literature :book:
 Go to [literature page](Literature.md) for complete list. Literature listed there is my personal selection and it does not reflect recomended literature from subject curriculum.
