@@ -1,12 +1,23 @@
 # Zadání projektu 
 
-Vaším úkolem je naimplementovat projekt který se bude jmenovat **CarGPSTracker**
+Předpoklady na projekt pokrývají náplň předmětu:
 
-Uvnitř projektu naimplementujete čistě abstraktní třídu **Vehicle** která bude mít attributy 
-* Vin
-* PlateNumber
-* a další dle vašeho uvážení
+* Všechny třídy budou mít anglicky název ve svém vlastním souboru. U každé třídy je vhodné také do poznámky v kódu krátce popsat co třída reprezentuje.
+* Implementace alespoň 6 rozdílných tříd objektů. Třídy budou obsahovat vlastní atributy, dynamické pole objektů jiné třídy, konstruktor a destruktor této třídy.
+* Implementace tříd, které budou simulovat dědičnou strukturu. Cílem je prokázat znalost dědičné struktury a jejich mechanismů v OOP - změna chování a polymorfismus.
+* Volitelně využití klíčového slova "protected" při rozšíření implementace.
+* Implementace jedné čistě abstraktní třídy.
+* V hlavní části bude vytvoření a použití několika instancí
 
-Třída **Vehicle** bude mít dva potomky jenž budou třídu rozšiřovat o další atributy a metody. (Příklad je nákladní vozidlo se specifickou maximální nosností)
+## Možné projekty k implementaci.. 
 
-Vytvořte třídu GPSTacker která bude obsahovat seznam vozidel.
+### 1. Malá sociální síť
+
+
+### 1. Knihovna
+
+
+### 1. Malá sociální síť
+
+
+
