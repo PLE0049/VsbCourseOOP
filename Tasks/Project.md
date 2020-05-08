@@ -32,7 +32,7 @@ Dědičnost se nabízí implementovat nad vozidly, jako nákladní auto, osobní
 ### 1. Ordinace :ambulance:
 Ordinace obsahuje **Sestry**, **Doktory** a**Pacienty**. Všechny tyto třídy mohou mít jednoho společného předka, jsou to lidé. Dále sestry a doktoři jsou zaměstnanci. Vše můžete zabalit do třídy nemocnice nebo ambulance. Pacient u sebe může mít pole objektů typu dignoza.
 
-### 1. Malá sociální síť
+### 1. Malá sociální síť :couple:
 **Užiavatelé** sociální sítě mezi sebou mohou navázat **Propojení**, vytvářet **Komentáře** a **článek**
 S dědičností je to tady horší ale komentář i článek na zed má nějaké společné atributy, čas, autor, počet liků. Pojmenování takového může být např příspěvek. Dále by šlo přidat různé typy uživatelů (user, admin) s nějakým společným předkem.
 
