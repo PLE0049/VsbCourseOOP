@@ -50,7 +50,7 @@ Pokud si z výše uvedených projektů nemůžete vybrat, můžete mě kontaktov
 
 :fire: Termín odevzdání je stanoven na 29.5. :fire:
 
-Z vyhotoveného projektu odstraňte vše tak, aby zustaly jen soubory .h a .cpp. z těch vytvořte zip s vaším loginem a pošlete na můj mail s předmětem projekt-XXXXXX, kde XXXXX bude váš login. 
+Z vyhotoveného projektu odstraňte vše tak, aby zůstaly jen soubory .h a .cpp. z těch vytvořte zip s vaším loginem a pošlete na můj mail s předmětem projekt-XXXXXX, kde XXXXX bude váš login. 
 
 jakub.plesnik@vsb.cz
 
