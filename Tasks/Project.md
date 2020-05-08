@@ -18,8 +18,8 @@ Pokud budete potřebovat, můžete mě kontaktovat.
 ## Témata projektů k implementaci.. 
 
 ### 1. Knihovna
-Třídy v projektu mohou být například **Kniha**, **knihovnu**, **knihovníka**, **zákazníka**. 
-Dědičná struktura se nabízí jak u typů knig tak je zde možnost míst společného předka pro zákaznáka a knihovníka.
+Třídy v projektu mohou být například **Kniha**, **knihovna**, **knihovník**, **zákazník**. 
+Dědičná struktura se nabízí jak u typů knik tak je zde možnost míst společného předka pro zákaznáka a knihovníka.
 
 ### 1. Zoo
 Projekt může obsahovat **výběhy**, **ošetřovatele**, **zvářata**, 
@@ -29,8 +29,8 @@ Dědičnost může být implementována nad třídami zvířat nebo můžete př
 Kniha jízd obsahuje **Řidiče**, **Vozidla**, **Jízdy**. Třídy obsahují své specifické atributy
 Dědičnost se nabízí implementovat nad vozidly, jako nákladní auto, osobní auto etc. Jízdy mohou obsahovat pole gps poloh.
 
-### 1. Ordinace obsahuje zaměstnance
-**Sestry**, **Doktoři**,  **Pacienty**. Všechny tyto třídy mohou mít jednoho společného předka, jsou to lidé. Dále sestry a doktoři jsou zaměstnanci. Vše můžete zabalit do třídy nemocnice nebo ambulance. Pacient u sebe může mít pole objektů typu dignoza.
+### 1. Ordinace 
+Ordinace obsahuje **Sestry**, **Doktory** a**Pacienty**. Všechny tyto třídy mohou mít jednoho společného předka, jsou to lidé. Dále sestry a doktoři jsou zaměstnanci. Vše můžete zabalit do třídy nemocnice nebo ambulance. Pacient u sebe může mít pole objektů typu dignoza.
 
 ### 1. Malá sociální síť
 **Užiavatelé** sociální sítě mezi sebou mohou navázat **Propojení**, vytvářet **Komentáře** a **článek**
@@ -40,12 +40,13 @@ S dědičností je to tady horší ale komentář i článek na zed má nějaké
 Třídy, které budou simulovat dědičnou strukturu UI elementů. Od nejmenšího čistě abstraktního prvku **renderable** přes **label**, **button** a další. 
 
 ### 1. Eshop
-**Faktury** mají své **Položky**, svého **vystavovatele** a **plátce**. Vystavovatel a plátce zcela jistě mohou mít společného předka. Možná může existovat více typů factur nebo položek. Záleží na typu eshopu.
+**Faktury** mají své **Položky**, svého **vystavovatele** a **plátce**. Vystavovatel a plátce zcela jistě mohou mít společného předka. Možná může existovat více typů faktur nebo položek. Záleží na typu eshopu.
 
 **Zvolený projekt zapište zde nejpozději do 13.5.2020**
 
 Pokud si z výše uvedených projektů nemůžete vybrat. Můžete mě kontaktovat s vlastním tématem.
 
+:fire: Termín je odevzdání je stanoven na 29.5 :fire:
 
-Termín je prozatím stanoven na 29.5
+*forma odevzdání bude upřesněna*
 
