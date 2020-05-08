@@ -19,6 +19,10 @@ Welcome :wave:, this project is dedicated to a course that I am teaching on VSB 
 1) [Inheritance - UI](Tasks/Task2.md)
 1) [Inheritance - Shapes](Tasks/Task3.md)
 
+## Videos
+All stream videos are upploaded on youtube [channel](https://www.youtube.com/playlist?list=PLk-s-JsQlsE8oH_PSGW9sVzKBeS0MAnjD).
+
+
 ## Literature :book:
 Go to [literature page](Literature.md) for complete list. Literature listed there is my personal selection and it does not reflect recomended literature from subject curriculum.
 
