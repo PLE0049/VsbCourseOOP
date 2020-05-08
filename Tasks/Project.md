@@ -30,7 +30,7 @@ Kniha jízd obsahuje **řidiče**, **vozidla**, **jízdy**. Třídy obsahují sv
 Dědičnost se nabízí implementovat nad vozidly jako nákladní auto, osobní auto, etc. Jízdy mohou obsahovat pole gps poloh.
 
 ### 1. Ordinace :ambulance:
-Ordinace obsahuje **sestry**, **doktory** a**pacienty**. Všechny tyto třídy mohou mít jednoho společného předka, člověka. Dále sestry a doktoři jsou zaměstnanci. Vše můžete zabalit do třídy nemocnice nebo ambulance. Pacient u sebe může mít pole objektů typu dignóza.
+Ordinace obsahuje **sestry**, **doktory** a **pacienty**. Všechny tyto třídy mohou mít jednoho společného předka, člověka. Dále sestry a doktoři jsou zaměstnanci. Vše můžete zabalit do třídy nemocnice nebo ambulance. Pacient u sebe může mít pole objektů typu dignóza.
 
 ### 1. Malá sociální síť :couple:
 **Užiavatelé** sociální sítě mezi sebou mohou navázat **propojení**, vytvářet **komentáře** a **články**.
