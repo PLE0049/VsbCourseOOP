@@ -54,6 +54,6 @@ Z vyhotoveného projektu odstraňte vše tak, aby zůstaly jen soubory .h a .cpp
 
 jakub.plesnik@vsb.cz
 
-:warning: Nedodržení formátu odevzdání se rovná nesplnění. 
+:warning: Nedodržení formátu a data odevzdání se rovná nesplnění. 
 
 
