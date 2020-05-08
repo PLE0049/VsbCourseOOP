@@ -13,7 +13,7 @@ Projekt musí splňovat následující body:
 
 Zadání nejsou nijak specifická, jedná se o nástřely témat v rámci kterých máte naimplementovat malý program a využít prvků, které jste se naučili. To jak zadání rozšíříte, je na vás. Nemusíte všechny třídy použít a nemusí všechno nutně dávat smysl. Cílem je ukázat, že ovládáte techniky, které jsme probírali.
 
-Pokud budete potřebovat, můžete mě kontaktovat.
+V případě potřeby mě můžete kontaktovat.
 
 ## Témata projektů k implementaci.. 
 
