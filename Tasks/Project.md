@@ -22,7 +22,7 @@ Třídy v projektu mohou být například **kniha**, **knihovna**, **knihovník*
 Dědičná struktura se nabízí u typů knih, nebo je možnost mít společného předka pro zákazníka a knihovníka.
 
 ### 1. Zoo :lion:
-Projekt může obsahovat **výběhy**, **ošetřovatele**, **zvířata**, 
+Projekt může obsahovat **výběhy**, **ošetřovatele**, **zvířata**. 
 Dědičnost může být implementována nad třídami zvířat nebo můžete přidat třídu **návštěvník**, která by měla společného předka s ošetřovatelem. 
 
 ### 1. Kniha jízd :car:
