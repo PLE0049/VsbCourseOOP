@@ -19,3 +19,10 @@ Pro ukázku použití dědičnosti navštivte prezentace.
 :warning: Všechny dosavadní úkoly odevzdejte nejpozději do 23.4 následující formou. 
 
 Vytvoříte složku která bude mít jako název váš login. Uvnitř budou 3 složky Task1,Task2,Task3. Ve složkách pro jednotlivé úkoly nebude nic jiného než soubory typu .cpp a .h. Výjímkou bude 3 ukol kde je očekáván soubor s odpovědmi na otázky. Otázky na odpovědi neopisujte, budu je číst :) 
+
+Z takto vytvořené složky udělejte ZIP archiv, který bude opět pojmenován vaším loginem. Zip pošlete na můj mail nebo nahrejte někam odkud si jej budu moci stáhnout a pošlete mi link. 
+
+email: jakub.plesnik@vsb.cz
+
+Předmět emailu prosím vyplnte následovně XXXX-OOP-Tasks kde XXXX je váš login. 
+
